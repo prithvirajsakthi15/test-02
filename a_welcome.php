@@ -1,3 +1,3 @@
 <?PHP
-        echo "Hello kctian'st";
+        echo "Hello prithvi";
 ?>        
